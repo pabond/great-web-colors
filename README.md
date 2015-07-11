@@ -1,4 +1,4 @@
-# Collection of great colors for web sits and apps: [colors.html5space.org](http://colors.html5space.org/)
+# Collection of great colors for web sits and app/
 
 ## Installation
 
@@ -6,7 +6,6 @@ Install Bower and the project dependencies
 
 `npm install -g bower`
 `bower install`
-
 
 Install Grunt:
 
@@ -24,4 +23,4 @@ Run build for distribution:
 
 ## Working Demo
 
-[http://ssokurenko.github.io/great-web-colors/](http://ssokurenko.github.io/great-web-colors/)
+[http://pabond.github.io/great-web-colors](http://pabond.github.io/great-web-colors)
